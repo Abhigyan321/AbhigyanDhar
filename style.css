@@ -1,0 +1,137 @@
+*{
+    margin-bottom: 30px;
+    border-radius: 200px;
+    font-family: serif;
+}
+
+#akli{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+h1{
+    height: 300px;
+    font-size: 95px;
+    font-family: serif;
+    display: flex;
+    justify-content: center;
+}
+
+
+#div01,#div02,#div03,#div04,#div05,#div06,#div07,#div08,#div09,#div010,#div011,#div012{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-top: 100px;
+}
+
+
+#div1a,#div2a,#div3a,#div4a,#div5a,#div6a,#div7a,#div8a,#div9a,#div10a,#div11a,#div12a{
+    margin-bottom: 200px;
+    font-size: 25px;
+}
+
+
+#div1,#div2,#div3,#div4,#div5,#div6,#div7,#div8,#div9,#div10,#div11,#div12{
+    border: 6px solid rgb(127, 107, 34);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 40px;
+}
+
+
+#div1,#div3,#div5,#div7,#div9,#div11{
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#div2,#div4,#div6,#div8,#div10,#div12{
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+#div1{
+    background-image: url("car/land_rover_defender_90_p400_x_2020_4k-1920x1080.jpg");
+    height: 840px;
+    width: 1493px;
+}
+
+#div2{
+    background-image: url("car/rolls_royce_phantom_ewb_tempus_collection_2021_4k_8k_2-3840x2160.jpg");
+    height: 840px;
+    width: 1493px;
+}
+
+#div3{
+    background-image: url("car/wp3616694.webp");
+    height: 840px;
+    width: 1493px;
+}
+
+#div4{
+    background-image: url("car/hamann-slider-01-range-rover-mystere.jpg");
+    height: 690px;
+    width: 1493px;
+}
+
+#div5{
+    background-image: url("car/bmw ix 2.jpg");
+    height: 679px;
+    width: 1491px;
+}
+
+#div6{
+    background-image: url("car/mini cooper.jpg");
+    height: 593px;
+    width: 1492px;
+
+}
+
+#div7{
+    background-image: url("car/tata avaniya 3.jpg");
+    height: 666px;
+    width: 1489px;
+
+}
+
+#div8{
+    background-image: url("car/mahidra be 07.jpg");
+    height: 668px;
+    width: 1492px;
+}
+
+#div9{
+    background-image: url("car/lamborghini urus.jpg");
+    height: 673px;
+    width: 1492px;
+}
+
+#div10{
+    background-image: url("car/kia-ev6.jpg");
+    height: 675px;
+    width: 1491px;
+}
+
+#div11{
+    background-image: url("car/jagwar ftype.jpg");
+    height: 678px;
+    width: 1491px;
+}
+
+#div12{
+    background-image: url("car/g wagon.jpg");
+    height: 684px;
+    width: 1492px;
+}
+
+
+
+
+
+
+
